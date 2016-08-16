@@ -1,0 +1,28 @@
+name: MSNGLNK
+favicon: null
+layout_spectrum: 0.535638279048726
+typography_spectrum: 0.6544380772393197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5960567109286785
+  lightness: 0.03505351208150387
+  saturation: 0.10537153598852456
+  rhythmicContrast: 0.6853943825699389
+purpose: []
